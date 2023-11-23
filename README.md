@@ -1,6 +1,7 @@
 # i_am_rich
 
-A new Flutter project.
+A new Flutter project that wore millions.
+![Screenshot_20231029-212231](https://github.com/Imran-227/i_am_rich_flutterApp/assets/128098964/e2863a12-160c-4029-a90a-3bc386726ad8)
 
 ## Getting Started
 
